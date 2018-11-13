@@ -1,7 +1,1 @@
-﻿  GraphicJumpingBall.cpp
-g:\vsworkplace\vs-2017-workplace\graphicjumpingball\graphicjumpingball\graphicjumpingball.cpp(120): warning C4305: “参数”: 从“double”到“float”截断
-g:\vsworkplace\vs-2017-workplace\graphicjumpingball\graphicjumpingball\graphicjumpingball.cpp(150): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-g:\vsworkplace\vs-2017-workplace\graphicjumpingball\graphicjumpingball\graphicjumpingball.cpp(163): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-g:\vsworkplace\vs-2017-workplace\graphicjumpingball\graphicjumpingball\graphicjumpingball.cpp(180): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
-g:\vsworkplace\vs-2017-workplace\graphicjumpingball\graphicjumpingball\graphicjumpingball.cpp(181): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
-  GraphicJumpingBall.vcxproj -> G:\VSWorkPlace\VS-2017-WorkPlace\GraphicJumpingBall\Debug\GraphicJumpingBall.exe
+﻿

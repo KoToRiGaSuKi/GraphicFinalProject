@@ -1,1 +1,16 @@
-﻿
+﻿  glcamera.cpp
+g:\vsworkplace\vs-2017-workplace\graphicjumpingball\graphicjumpingball\glcamera.cpp(57): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+g:\vsworkplace\vs-2017-workplace\graphicjumpingball\graphicjumpingball\glcamera.cpp(58): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+g:\vsworkplace\vs-2017-workplace\graphicjumpingball\graphicjumpingball\glcamera.cpp(74): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+g:\vsworkplace\vs-2017-workplace\graphicjumpingball\graphicjumpingball\glcamera.cpp(75): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+g:\vsworkplace\vs-2017-workplace\graphicjumpingball\graphicjumpingball\glcamera.cpp(93): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+g:\vsworkplace\vs-2017-workplace\graphicjumpingball\graphicjumpingball\glcamera.cpp(94): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+g:\vsworkplace\vs-2017-workplace\graphicjumpingball\graphicjumpingball\glcamera.cpp(111): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  GraphicJumpingBall.cpp
+g:\vsworkplace\vs-2017-workplace\graphicjumpingball\graphicjumpingball\graphicjumpingball.cpp(121): warning C4305: “参数”: 从“double”到“float”截断
+g:\vsworkplace\vs-2017-workplace\graphicjumpingball\graphicjumpingball\graphicjumpingball.cpp(151): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+g:\vsworkplace\vs-2017-workplace\graphicjumpingball\graphicjumpingball\graphicjumpingball.cpp(164): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+g:\vsworkplace\vs-2017-workplace\graphicjumpingball\graphicjumpingball\graphicjumpingball.cpp(181): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+g:\vsworkplace\vs-2017-workplace\graphicjumpingball\graphicjumpingball\graphicjumpingball.cpp(182): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码...
+LINK : fatal error LNK1104: 无法打开文件“freeglut.lib”
