@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GraphicJumpingBall", "GraphicJumpingBall\GraphicJumpingBall.vcxproj", "{90589091-CC2C-4A0C-9789-5F2B2B68E1BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90589091-CC2C-4A0C-9789-5F2B2B68E1BC}.Debug|x64.ActiveCfg = Debug|x64
+		{90589091-CC2C-4A0C-9789-5F2B2B68E1BC}.Debug|x64.Build.0 = Debug|x64
+		{90589091-CC2C-4A0C-9789-5F2B2B68E1BC}.Debug|x86.ActiveCfg = Debug|Win32
+		{90589091-CC2C-4A0C-9789-5F2B2B68E1BC}.Debug|x86.Build.0 = Debug|Win32
+		{90589091-CC2C-4A0C-9789-5F2B2B68E1BC}.Release|x64.ActiveCfg = Release|x64
+		{90589091-CC2C-4A0C-9789-5F2B2B68E1BC}.Release|x64.Build.0 = Release|x64
+		{90589091-CC2C-4A0C-9789-5F2B2B68E1BC}.Release|x86.ActiveCfg = Release|Win32
+		{90589091-CC2C-4A0C-9789-5F2B2B68E1BC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {555CC10A-62DB-47C8-9B95-727A6C85F27F}
+	EndGlobalSection
+EndGlobal
